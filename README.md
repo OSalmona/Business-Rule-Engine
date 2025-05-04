@@ -65,6 +65,7 @@
 - implement Logging table for transaction and it's status
 - define user roles
 - implement Authentication and Authorization
+- unit testing
 ---
 
 ## 📍 End Points APIs
